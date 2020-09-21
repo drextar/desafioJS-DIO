@@ -29,6 +29,7 @@ for (let i = 0; i < conjuntoValores.length; i++) {
   }
 }
 
+
 console.log(`${valoresPares} valor(es) par(es)`);
 console.log(`${valoresImpares} valor(es) impar(es)`);
 console.log(`${valoresPositivos} valor(es) positivo(s)`);
